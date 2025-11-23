@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Welcome to Keith Marlou D. Aldueza’s Repository
 
-<!--
-**keithmr14/keithmr14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am **Keith Marlou D. Aldueza**, a 2nd-year **BS Computer Science** student from **New Era University**.  
+This repository serves as my personal space for projects, exercises, and documentation of my growth as a developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 2nd Year BSCS Student — New Era University  
+- 💡 Passionate about software development, game development, and building creative digital projects  
+- 🎥 Skilled in **visual and video editing**
+
+---
+
+## 🛠️ Programming Languages & Technologies
+
+### **Main Languages**
+- **Java**
+- **C#**
+- **Visual Basic**
+- **JavaScript (JSS)**
+- **SQL**
+- **HTML**
+- **CSS**
+
+### **Development Tools**
+- **Visual Studio**
+- **Unity Engine**
+
+---
+
+## 📜 Certifications
+
+- **SQL and Relational Databases 101**  
+  ✔ *Issued by Cognitive Class*  
+  👉 [View Certificate](https://courses.cognitiveclass.ai/certificates/b1d59d654bdd48798039c00d9aab8373)
+
+---
+
+## 🎯 Goals
+- Strengthen my backend development skills  
+- Build more game and app prototypes using Unity  
+- Expand my mastery of database systems  
+- Create meaningful software projects and collaborations
+
+---
+
+## 📫 Contact Me
+Feel free to reach out if you'd like to collaborate or connect!
+
