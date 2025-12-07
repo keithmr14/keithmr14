@@ -32,8 +32,12 @@ This repository serves as my personal space for projects, exercises, and documen
 ## 📜 Certifications
 
 - **SQL and Relational Databases 101**  
-  ✔ *Issued by Cognitive Class*  
+  ✔ *Issued by Cognitive Class(2025)*  
   👉 [View Certificate](https://courses.cognitiveclass.ai/certificates/b1d59d654bdd48798039c00d9aab8373)
+
+- **Oracle Cloud Infrastructure Foundations Associate**  
+  ✔ *Issued by Oracle(2025)*  
+  👉 [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=17B91C4F32C8B7BD7B7956616020357908B08B713D89CE537792895334F18384)
 
 ---
 
