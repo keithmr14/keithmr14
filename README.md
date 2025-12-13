@@ -43,6 +43,10 @@ This repository serves as my personal space for projects, exercises, and documen
   ✔ *Issued by Oracle(2025)*  
   👉 [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=DB1302909735E8CCAC9BCF37B909FA1A45B78CF83B9A676410C6D87138BF94EB)
 
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**  
+  ✔ *Issued by Oracle(2025)*  
+  👉 [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=869E2E2C4440EA59CF7274FD1AD5535DCE7BE4963D86DD1B3DA6693968188C61)
+
 ---
 
 ## 🎯 Goals
