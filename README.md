@@ -39,6 +39,10 @@ This repository serves as my personal space for projects, exercises, and documen
   ✔ *Issued by Oracle(2025)*  
   👉 [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=17B91C4F32C8B7BD7B7956616020357908B08B713D89CE537792895334F18384)
 
+- **Oracle Data Platform 2025 Certified Foundations Associate**  
+  ✔ *Issued by Oracle(2025)*  
+  👉 [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=DB1302909735E8CCAC9BCF37B909FA1A45B78CF83B9A676410C6D87138BF94EB)
+
 ---
 
 ## 🎯 Goals
