@@ -6,7 +6,7 @@ This repository serves as my personal space for projects, exercises, and documen
 ---
 
 ## 🧑‍💻 Other Accounts
-**Leetcode** - [keithmr14](https://leetcode.com/u/keithmr14/)
+</> **Leetcode** - [keithmr14](https://leetcode.com/u/keithmr14/)
 
 ---
 
