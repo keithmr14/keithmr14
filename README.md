@@ -1,12 +1,12 @@
 # Keith Marlou Aldueza
 
-- 🎓 2nd Year BSCS Student — New Era University  
+**🎓 2nd Year BSCS Student — New Era University**  
 This repository serves as my personal space for projects, exercises, and documentation of my growth as a developer.
 
 ---
 
 ## 🧑‍💻 Other Accounts
-👉 [Leetcode](https://leetcode.com/u/keithmr14/)
+**Leetcode** - [keithmr14](https://leetcode.com/u/keithmr14/)
 
 ---
 
