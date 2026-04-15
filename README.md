@@ -1,14 +1,12 @@
-# 👋 Welcome to Keith Marlou D. Aldueza’s Repository
+# Keith Marlou Aldueza
 
-Hi! I am **Keith Marlou D. Aldueza**, a 2nd-year **BS Computer Science** student from **New Era University**.  
+- 🎓 2nd Year BSCS Student — New Era University  
 This repository serves as my personal space for projects, exercises, and documentation of my growth as a developer.
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 2nd Year BSCS Student — New Era University  
-- 💡 Passionate about software development, game development, and building creative digital projects  
-- 🎥 Skilled in **visual and video editing**
+## 🧑‍💻 Other Accounts
+👉 [Leetcode](https://leetcode.com/u/keithmr14/)
 
 ---
 
@@ -16,16 +14,11 @@ This repository serves as my personal space for projects, exercises, and documen
 
 ### **Main Languages**
 - **Java**
-- **C#**
-- **Visual Basic**
-- **JavaScript (JSS)**
-- **SQL**
-- **HTML**
-- **CSS**
 
 ### **Development Tools**
 - **Visual Studio**
-- **Unity Engine**
+- **Intellij IDEA**
+- **Unity**
 
 ---
 
@@ -46,17 +39,4 @@ This repository serves as my personal space for projects, exercises, and documen
 - **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**  
   ✔ *Issued by Oracle(2025)*  
   👉 [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=869E2E2C4440EA59CF7274FD1AD5535DCE7BE4963D86DD1B3DA6693968188C61)
-
----
-
-## 🎯 Goals
-- Strengthen my backend development skills  
-- Build more game and app prototypes using Unity  
-- Expand my mastery of database systems  
-- Create meaningful software projects and collaborations
-
----
-
-## 📫 Contact Me
-Feel free to reach out if you'd like to collaborate or connect!
 
