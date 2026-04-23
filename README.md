@@ -54,5 +54,5 @@
 ---
 
 <div align="center">
-  <sub>"For kindness begets kindness evermore, but he from whose mind fades the memory of benefits, noble is he no more." - Sophocles</sub>
+  <p><em>"For kindness begets kindness evermore, but he from whose mind fades the memory of benefits, noble is he no more." - Sophocles</em></p>
 </div>
