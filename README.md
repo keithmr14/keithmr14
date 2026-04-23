@@ -23,14 +23,23 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Engines**
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+<table>
+  <tr>
+    <td align="left" valign="middle" width="150"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="32" />
+      <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=mysql&logoColor=white" height="32" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><b>Tools & Engines</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="32" />
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="32" />
+      <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="32" />
+    </td>
+  </tr>
+</table>
 
 ---
 
