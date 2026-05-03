@@ -54,14 +54,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keithmr14&show_icons=true&theme=radical" alt="Keith's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keithmr14&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 <div align="center">
   <p><em>"For kindness begets kindness evermore, but he from whose mind fades the memory of benefits, noble is he no more." - Sophocles</em></p>
 </div>
