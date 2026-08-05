@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Keith Marlou Aldueza 👋</h1>
   <p align="center">
-    <strong>🎓 2nd Year BSCS Student @ New Era University</strong><br>
+    <strong>🎓 3rd Year BSCS Student @ New Era University</strong><br>
     <em>Building foundations in Sotware Development, Game Dev, and AI.</em>
   </p>
 
