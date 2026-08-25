@@ -14,10 +14,9 @@
 
 ---
 
-### 🧑‍💻 About Me
-- 🔭 **Current Focus:** Deepening my knowledge of Java (specifically Data Structures and Dynamic Programming).
-- ☁️ **Cloud Enthusiast:** Recently certified in Oracle Cloud Infrastructure (OCI) and AI Foundations.
-- 🎮 **Interests:** Exploring the intersection of Programming and Game Design.
+### About Me
+- Deepening my knowledge of Java (specifically Data Structures and Dynamic Programming).
+- Exploring the intersection of Programming and Game Design.
 
 ---
 
